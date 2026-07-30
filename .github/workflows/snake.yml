@@ -20,10 +20,10 @@ jobs:
       - name: Generate light and dark snake animations
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Mushi0
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-mushi0.svg
-            dist/github-snake-mushi0-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish animations to output branch
         uses: crazy-max/ghaction-github-pages@v5

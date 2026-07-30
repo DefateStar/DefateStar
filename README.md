@@ -14,8 +14,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DefateStar/DefateStar/output/github-snake-mushi0-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DefateStar/DefateStar/output/github-snake-mushi0.svg" />
-    <img alt="GitHub 贡献图贪吃蛇动画" src="https://raw.githubusercontent.com/DefateStar/DefateStar/output/github-snake-mushi0.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DefateStar/DefateStar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DefateStar/DefateStar/output/github-snake.svg" />
+    <img alt="DefateStar 的 GitHub 贡献图贪吃蛇动画" src="https://raw.githubusercontent.com/DefateStar/DefateStar/output/github-snake.svg" width="95%" />
   </picture>
 </div>
