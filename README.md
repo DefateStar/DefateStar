@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm DefateStar 👋</h1>
 
 <p align="center">
-  一名高中生，喜欢开源、穿戴设备和 Web，也喜欢编点有用的程序玩玩。
+  一名高中生，喜欢捣鼓穿戴设备和 Web，平时编点有用的程序玩玩。
 </p>
 
 <p align="center">
